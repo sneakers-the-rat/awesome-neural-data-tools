@@ -31,6 +31,7 @@ Tools, algorithms, and frameworks for managing and analyzing neural data (derive
 * http://www.openmaze.org/  
 * https://pni.princeton.edu/pni-software-tools/virmen 
 * https://github.com/dendritic/signals
+* https://docs.auto-pi-lot.com, https://github.com/wehr-lab/autopilot - a distributed Python framework for complex behavioral neuroscience experiments built on the Raspberry Pi <3
 
 ## Fluorescence Imaging
 * http://ilastik.org/index.html
